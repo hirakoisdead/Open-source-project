@@ -1,4 +1,4 @@
-# Open Source Software — Shell Script Tasks
+# Open Source Software : Shell Script Tasks
 
 **Author:** Tanish  
 **Course:** Open Source Software
@@ -13,7 +13,7 @@ This project contains five Bash shell scripts written as part of the Open Source
 
 ## Scripts
 
-### Script 1 — System Identity Report
+### Script 1 : System Identity Report
 **File:** `script1_system_identity.sh`  
 **Topics:** Unit 1 & 2
 
@@ -28,7 +28,7 @@ Displays a welcome screen with key system information including the Linux distri
 
 ---
 
-### Script 2 — FOSS Package Inspector
+### Script 2 : FOSS Package Inspector
 **File:** `script2_package_inspector.sh`  
 **Topics:** Unit 2
 
@@ -44,7 +44,7 @@ Checks whether a chosen open-source package is installed, shows its version, and
 
 ---
 
-### Script 3 — Disk and Permission Auditor
+### Script 3 : Disk and Permission Auditor
 **File:** `script3_disk_permission_auditor.sh`  
 **Topics:** Unit 2
 
@@ -59,7 +59,7 @@ Loops through a list of important system directories and reports the permissions
 
 ---
 
-### Script 4 — Log File Analyzer
+### Script 4 : Log File Analyzer
 **File:** `script4_log_analyzer.sh`  
 **Topics:** Units 2 & 5
 
@@ -78,7 +78,7 @@ Reads a log file line by line, counts how many lines contain a given keyword, re
 
 ---
 
-### Script 5 — Open Source Manifesto Generator
+### Script 5 : Open Source Manifesto Generator
 **File:** `script5_manifesto_generator.sh`  
 **Topics:** Unit 5
 
