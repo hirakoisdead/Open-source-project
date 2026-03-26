@@ -1,6 +1,6 @@
 # Open Source Software : Shell Script Tasks
 
-**Author:** Tanish  
+**Author:** Tanish Kumar Kar - 24BCY10013
 **Course:** Open Source Software
 
 ---
