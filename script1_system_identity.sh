@@ -3,8 +3,8 @@
 # Author: Tanish | Course: Open Source Software
 
 # Store student details in variables
-STUDENT_NAME="Your Name"
-SOFTWARE_CHOICE="Apache HTTP Server"
+STUDENT_NAME="Tanish Kumar Kar"
+SOFTWARE_CHOICE="Linux Kernel"
 
 # Get system info using command substitution
 KERNEL=$(uname -r)
